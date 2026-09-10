@@ -55,3 +55,4 @@ The analysis covers Kharif, Rabi and Zaid seasons.
 - `Seasonal_Agriculture_Performance_Analysis.ipynb` – Complete analysis
 - `seasonal_agriculture_performance_dataset.xlsx` – Dataset
 - `Seasonal_Agriculture_Performance_Analysis.pptx` – Project presentation
+- `Major Project_Seasonal Agriculture Performance Analysis.pdf` – Project Requirements
