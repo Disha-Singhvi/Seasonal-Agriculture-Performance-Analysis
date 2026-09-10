@@ -52,7 +52,7 @@ The analysis covers Kharif, Rabi and Zaid seasons.
 - Negative-profit cases were most common in the Zaid season.
 
 ## Project Files
+- `Major Project_Seasonal Agriculture Performance Analysis.pdf` – Project Problem Statement
 - `Seasonal_Agriculture_Performance_Analysis.ipynb` – Complete analysis
 - `seasonal_agriculture_performance_dataset.xlsx` – Dataset
 - `Seasonal_Agriculture_Performance_Analysis.pptx` – Project presentation
-- `Major Project_Seasonal Agriculture Performance Analysis.pdf` – Project Requirements
